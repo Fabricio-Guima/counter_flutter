@@ -1,6 +1,7 @@
-# hello_world_app
+# counter_app_flutter
 
 A new Flutter project.
+Aplicativo simples para que incrementa e decrementa uma variável utilizando widgets reutilizáveis para criar os botões que mudaram o estado da variável
 
 ## Getting Started
 
